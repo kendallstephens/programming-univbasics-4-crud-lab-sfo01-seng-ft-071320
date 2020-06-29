@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  Array = [1,2,3,4]
+  array = [1,2,3,4]
 
 end
 
