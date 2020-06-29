@@ -3,8 +3,8 @@ def create_an_empty_array
 
 end
 
-def create_an_array(array)
-  array = [basil, dill, lavender, rosemary]
+def create_an_array(herbs)
+  herbs = [basil, dill, lavender, rosemary]
   
 end
 
