@@ -5,6 +5,7 @@ end
 
 def create_an_array(herbs)
   herbs = [basil, dill, lavender, rosemary]
+  p herbs
   
 end
 
