@@ -1,4 +1,4 @@
-def create_an_empty_array = array.new
+def create_an_empty_array = [ ]
 
 end
 
