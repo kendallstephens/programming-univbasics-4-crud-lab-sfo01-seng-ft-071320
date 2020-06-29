@@ -6,7 +6,6 @@ end
 def create_an_array (array)
   array = ["dill", "basil", "mint", "thyme"]
 
-  
 end
 
 def add_element_to_end_of_array(array, element)
