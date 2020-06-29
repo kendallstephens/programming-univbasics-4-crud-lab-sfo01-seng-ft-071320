@@ -1,6 +1,6 @@
-def create_an_empty_array[array =]
+def create_an_empty_array[]
   
- p [array =]
+ p []
 
 end
 
